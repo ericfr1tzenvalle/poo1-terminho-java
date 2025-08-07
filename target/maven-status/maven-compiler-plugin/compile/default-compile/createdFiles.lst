@@ -1,0 +1,7 @@
+com\terminho\terminho\utils\ArquivoUtils.class
+com\terminho\terminho\Terminho.class
+com\terminho\terminho\utils\ConsoleCores.class
+com\terminho\terminho\view\GameView.class
+com\terminho\terminho\utils\PalavraUtils.class
+com\terminho\terminho\model\Jogador.class
+com\terminho\terminho\controller\GameController.class
